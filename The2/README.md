@@ -1,4 +1,4 @@
-In this task, assume a player in a labyrinth with mission to find an exit.
+In this task, there is a player in a labyrinth with mission to find an exit.
 The player's position is located in an empty point in it.
 If there is an exit in this labyrinth, the code need to print the labyrinth with a path leading to any exit which is represented by '*' characters.
 If no path exits, then interior of the vicinity (that we are stucked in) should be marked with ‘.’ characters.
